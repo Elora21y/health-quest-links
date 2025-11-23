@@ -12,12 +12,12 @@
       "procedureType": "Stem Cell Treatment",
       "price": "$$$",
       "images": [
-        "/images/blue-ova-main.jpg",
+          "https://i.ibb.co/xtNBmTwH/5206.jpg",
         "/images/blue-ova-2.jpg",
         "/images/blue-ova-3.jpg",
         "/images/blue-ova-4.jpg"
       ],
-      "thumbnail": "/images/blue-ova-1.jpg",
+      "thumbnail": "https://i.ibb.co.com/39ZzQyZC/952481-2135.jpg",
       "coordinates": {
         "lat": 37.7505,
         "lng": -122.4309
@@ -206,7 +206,7 @@
       "procedureType": "Regenerative Medicine",
       "price": "$$$$",
       "images": [
-        "/images/kalos-main.jpg",
+          "https://i.ibb.co/xtNBmTwH/5206.jpg",
         "/images/kalos-2.jpg",
         "/images/kalos-3.jpg",
         "/images/kalos-4.jpg"
@@ -319,7 +319,7 @@
       "procedureType": "Urgent Care",
       "price": "$$",
       "images": [
-        "/images/gohealth-main.jpg",
+         "https://i.ibb.co/xtNBmTwH/5206.jpg",
         "/images/gohealth-2.jpg",
         "/images/gohealth-3.jpg"
       ],
@@ -408,7 +408,7 @@
       "procedureType": "Medical Service",
       "price": "$$$",
       "images": [
-        "/images/kingdom-main.jpg",
+          "https://i.ibb.co/xtNBmTwH/5206.jpg",
         "/images/kingdom-2.jpg"
       ],
       "thumbnail": "/images/kingdom.jpg",
@@ -497,7 +497,7 @@
       "procedureType": "Wellness Care",
       "price": "$$$",
       "images": [
-        "/images/blue-ova-branch-main.jpg"
+          "https://i.ibb.co/xtNBmTwH/5206.jpg"
       ],
       "thumbnail": "/images/blue-ova-2.jpg",
       "coordinates": {
@@ -571,16 +571,16 @@
       "slug": "blue-ova-health-richmond",
       "location": "Noe Valley",
       "address": "345 Geary Boulevard, San Francisco, CA 94118",
-      "rating": 4.5,
+      "rating": 3.5,
       "reviewCount": 95,
       "description": "Discover advanced stem cell treatments in San Francisco. Offering regenerative medicine, and wellness care.",
       "speciality": "Anti Aging, Cosmetic Medicine",
       "procedureType": "Stem Cell Treatment",
       "price": "$$$",
       "images": [
-        "/images/blue-ova-richmond-main.jpg"
+        "https://i.ibb.co/xtNBmTwH/5206.jpg"
       ],
-      "thumbnail": "/images/blue-ova-3.jpg",
+      "thumbnail": "https://i.ibb.co.com/39ZzQyZC/952481-2135.jpg",
       "coordinates": {
         "lat": 37.7520,
         "lng": -122.4305

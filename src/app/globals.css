@@ -2,3 +2,13 @@
 @plugin "daisyui" {
   themes: light --default
 }
+
+@plugin "daisyui/theme" {
+  name : "light";
+  default: true; 
+    color-scheme: light;
+  --color-primary: #C9A961;
+  --color-secondary: #4E1F00
+}
+
+
