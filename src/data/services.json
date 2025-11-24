@@ -87,67 +87,27 @@
           "id": 1,
           "name": "Dr. Yosafat Audiffred",
           "speciality": "Internal and Integrative Medicine Specialist",
-          "image": "/images/doctor-1.jpg"
+          "image": "https://i.ibb.co.com/KpB4MLXt/Dr-Md-Hasibuzzaman.jpg"
         },
         {
           "id": 2,
           "name": "Dr. Paola Gomez",
           "speciality": "Internal Medicine Specialist",
-          "image": "/images/doctor-2.jpg"
+          "image": "https://i.ibb.co.com/k2DmyYL3/Dr-Ismat-Jahan-Lima.jpg"
         },
         {
           "id": 3,
           "name": "Dr. Maria José",
           "speciality": "Traumatology",
-          "image": "/images/doctor-3.jpg"
+          "image": "https://i.ibb.co.com/rRKJpqkK/dr-reyan.jpg"
         },
         {
           "id": 4,
           "name": "Dr. Octavio Perez",
           "speciality": "Certified Physician",
-          "image": "/images/doctor-4.jpg"
+          "image": "https://i.ibb.co.com/Gv7NPq2p/Mohammad-Ali.jpg"
         }
-      ],
-      "amenities": [
-        {
-          "icon": "credit-card",
-          "text": "Accepts credit cards"
-        },
-        {
-          "icon": "wifi",
-          "text": "Free Wi-Fi"
-        },
-        {
-          "icon": "wheelchair",
-          "text": "Wheelchair accessible"
-        },
-        {
-          "icon": "restroom",
-          "text": "Gender-neutral restrooms"
-        }
-      ],
-      "awards": [
-        {
-          "id": 1,
-          "title": "Diamond Awards 2023",
-          "image": "/images/award-1.jpg"
-        },
-        {
-          "id": 2,
-          "title": "Community Recognition Award",
-          "image": "/images/award-2.jpg"
-        },
-        {
-          "id": 3,
-          "title": "Medical Excellence Certificate",
-          "image": "/images/award-3.jpg"
-        },
-        {
-          "id": 4,
-          "title": "Certificate of Achievement",
-          "image": "/images/award-4.jpg"
-        }
-      ],
+      ], 
       "reviews": [
         {
           "id": 1,
@@ -199,7 +159,7 @@
       "slug": "kalos-san-francisco",
       "location": "San Francisco",
       "address": "2450 Market Street, San Francisco, CA 94114",
-      "rating": 4.5,
+      "rating": 3.5,
       "reviewCount": 95,
       "description": "Discover advanced stem cell treatments in San Francisco. Offering regenerative medicine, and wellness care.",
       "speciality": "Regenerative Medicine, Wellness",
@@ -211,7 +171,7 @@
         "/images/kalos-3.jpg",
         "/images/kalos-4.jpg"
       ],
-      "thumbnail": "/images/kalos.jpg",
+      "thumbnail": "https://i.ibb.co.com/39ZzQyZC/952481-2135.jpg",
       "coordinates": {
         "lat": 37.7749,
         "lng": -122.4194
@@ -249,15 +209,27 @@
       "doctors": [
         {
           "id": 1,
-          "name": "Dr. Sarah Mitchell",
-          "speciality": "Regenerative Medicine Specialist",
-          "image": "/images/doctor-5.jpg"
+          "name": "Dr. Yosafat Audiffred",
+          "speciality": "Internal and Integrative Medicine Specialist",
+          "image": "https://i.ibb.co.com/KpB4MLXt/Dr-Md-Hasibuzzaman.jpg"
         },
         {
           "id": 2,
-          "name": "Dr. James Lee",
-          "speciality": "Sports Medicine",
-          "image": "/images/doctor-6.jpg"
+          "name": "Dr. Paola Gomez",
+          "speciality": "Internal Medicine Specialist",
+          "image": "https://i.ibb.co.com/k2DmyYL3/Dr-Ismat-Jahan-Lima.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Dr. Maria José",
+          "speciality": "Traumatology",
+          "image": "https://i.ibb.co.com/rRKJpqkK/dr-reyan.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Dr. Octavio Perez",
+          "speciality": "Certified Physician",
+          "image": "https://i.ibb.co.com/Gv7NPq2p/Mohammad-Ali.jpg"
         }
       ],
       "amenities": [
@@ -323,7 +295,7 @@
         "/images/gohealth-2.jpg",
         "/images/gohealth-3.jpg"
       ],
-      "thumbnail": "/images/gohealth.jpg",
+      "thumbnail": "https://i.ibb.co.com/39ZzQyZC/952481-2135.jpg",
       "coordinates": {
         "lat": 37.7489,
         "lng": -122.4281
@@ -354,9 +326,27 @@
       "doctors": [
         {
           "id": 1,
-          "name": "Dr. Emily Watson",
-          "speciality": "Emergency Medicine",
-          "image": "/images/doctor-7.jpg"
+          "name": "Dr. Yosafat Audiffred",
+          "speciality": "Internal and Integrative Medicine Specialist",
+          "image": "https://i.ibb.co.com/KpB4MLXt/Dr-Md-Hasibuzzaman.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Dr. Paola Gomez",
+          "speciality": "Internal Medicine Specialist",
+          "image": "https://i.ibb.co.com/k2DmyYL3/Dr-Ismat-Jahan-Lima.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Dr. Maria José",
+          "speciality": "Traumatology",
+          "image": "https://i.ibb.co.com/rRKJpqkK/dr-reyan.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Dr. Octavio Perez",
+          "speciality": "Certified Physician",
+          "image": "https://i.ibb.co.com/Gv7NPq2p/Mohammad-Ali.jpg"
         }
       ],
       "amenities": [
@@ -411,7 +401,7 @@
           "https://i.ibb.co/xtNBmTwH/5206.jpg",
         "/images/kingdom-2.jpg"
       ],
-      "thumbnail": "/images/kingdom.jpg",
+      "thumbnail": "https://i.ibb.co.com/39ZzQyZC/952481-2135.jpg",
       "coordinates": {
         "lat": 37.7512,
         "lng": -122.4298
@@ -443,9 +433,27 @@
       "doctors": [
         {
           "id": 1,
-          "name": "Dr. Robert Kim",
-          "speciality": "Family Medicine",
-          "image": "/images/doctor-8.jpg"
+          "name": "Dr. Yosafat Audiffred",
+          "speciality": "Internal and Integrative Medicine Specialist",
+          "image": "https://i.ibb.co.com/KpB4MLXt/Dr-Md-Hasibuzzaman.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Dr. Paola Gomez",
+          "speciality": "Internal Medicine Specialist",
+          "image": "https://i.ibb.co.com/k2DmyYL3/Dr-Ismat-Jahan-Lima.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Dr. Maria José",
+          "speciality": "Traumatology",
+          "image": "https://i.ibb.co.com/rRKJpqkK/dr-reyan.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Dr. Octavio Perez",
+          "speciality": "Certified Physician",
+          "image": "https://i.ibb.co.com/Gv7NPq2p/Mohammad-Ali.jpg"
         }
       ],
       "amenities": [
@@ -499,7 +507,7 @@
       "images": [
           "https://i.ibb.co/xtNBmTwH/5206.jpg"
       ],
-      "thumbnail": "/images/blue-ova-2.jpg",
+      "thumbnail": "https://i.ibb.co.com/39ZzQyZC/952481-2135.jpg",
       "coordinates": {
         "lat": 37.7498,
         "lng": -122.4315
@@ -524,9 +532,27 @@
       "doctors": [
         {
           "id": 1,
-          "name": "Dr. Lisa Chang",
-          "speciality": "Holistic Medicine",
-          "image": "/images/doctor-9.jpg"
+          "name": "Dr. Yosafat Audiffred",
+          "speciality": "Internal and Integrative Medicine Specialist",
+          "image": "https://i.ibb.co.com/KpB4MLXt/Dr-Md-Hasibuzzaman.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Dr. Paola Gomez",
+          "speciality": "Internal Medicine Specialist",
+          "image": "https://i.ibb.co.com/k2DmyYL3/Dr-Ismat-Jahan-Lima.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Dr. Maria José",
+          "speciality": "Traumatology",
+          "image": "https://i.ibb.co.com/rRKJpqkK/dr-reyan.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Dr. Octavio Perez",
+          "speciality": "Certified Physician",
+          "image": "https://i.ibb.co.com/Gv7NPq2p/Mohammad-Ali.jpg"
         }
       ],
       "amenities": [
@@ -615,12 +641,30 @@
           "price": "$1,800"
         }
       ],
-      "doctors": [
+     "doctors": [
         {
           "id": 1,
-          "name": "Dr. Amanda Torres",
-          "speciality": "Cosmetic Medicine",
-          "image": "/images/doctor-10.jpg"
+          "name": "Dr. Yosafat Audiffred",
+          "speciality": "Internal and Integrative Medicine Specialist",
+          "image": "https://i.ibb.co.com/KpB4MLXt/Dr-Md-Hasibuzzaman.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Dr. Paola Gomez",
+          "speciality": "Internal Medicine Specialist",
+          "image": "https://i.ibb.co.com/k2DmyYL3/Dr-Ismat-Jahan-Lima.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Dr. Maria José",
+          "speciality": "Traumatology",
+          "image": "https://i.ibb.co.com/rRKJpqkK/dr-reyan.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Dr. Octavio Perez",
+          "speciality": "Certified Physician",
+          "image": "https://i.ibb.co.com/Gv7NPq2p/Mohammad-Ali.jpg"
         }
       ],
       "amenities": [

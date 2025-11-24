@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "10% Discount on Medical Check up",
+    "image": "https://i.ibb.co.com/Ty2LNRM/medicl-checkup.jpg",
+    "discount": "10%"
+  },
+  {
+    "id": 2,
+    "title": "50% Discount on Full Body Check up",
+    "image": "https://i.ibb.co.com/JWmYYDFW/checkup.jpg",
+    "discount": "50%"
+  }
+]
