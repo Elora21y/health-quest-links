@@ -93,13 +93,15 @@ const ListDetails = () => {
 
     return (
       <div className="bg-white ">
+        {images?.[0] && (
         <Image
           src={images[0]}
-          alt={name}
+          alt={name || "Service image"}
           width={300}
           height={100}
           className="rounded-t h-54 w-full object-cover"
         />
+        )}
         {/* content */}
         <div className="my-4 px-4 space-y-1">
           <h3 className="text-lg font-semibold">{name}</h3>
@@ -119,13 +121,15 @@ const ListDetails = () => {
 
     return (
       <div className="bg-white ">
+        {images?.[0] && (
         <Image
           src={images[0]}
-          alt={name}
+          alt={name || "Service image"}
           width={300}
           height={100}
           className="rounded-t h-54"
         />
+        )}
         {/* content */}
         <div className="my-4 px-4 space-y-1">
           <h3 className="text-lg font-semibold">{name}</h3>
@@ -148,9 +152,9 @@ const ListDetails = () => {
           <div className="flex items-center gap-6 mb-10">
             <Image
               src={thumbnail}
-              alt="Logo"
+              alt={name}
               width={180}
-              height={1800}
+              height={180}
               className="rounded-full border border-primary"
             />
             {/* content */}
@@ -158,7 +162,7 @@ const ListDetails = () => {
               <h3 className="text-secondary font-bold text-3xl">{name}</h3>
               <Ratings key={slug} r={rating} review={reviewCount}/>
               <p className="font-medium">Speciality : {speciality} </p>
-              <p className="text-gray-400 font-medium"> Location: {address} </p>
+              <p className="text-gray-400 font-medium text-sm"> Location: {address} </p>
               <p className="flex items-start gap-3 text-gray-400 text-sm font-medium">
                 {" "}
                 <FaRegHeart className="text-red-600/50" size={18} /> Add to
@@ -167,13 +171,13 @@ const ListDetails = () => {
             </div>
           </div>
           <div className="">
-            <Image src={images[0]} alt="Services" width={650} height={200} />
+            <Image src={images[0]} alt={name} width={750} height={200} className="rounded-xl"/>
             <p> </p>
           </div>
           {/* about */}
           <div className="mt-10">
-            <h3 className="text-2xl font-semibold">About</h3>
-            <p className="text-gray-500">
+            <h3 className="text-2xl font-semibold mb-3">About</h3>
+            <p className="text-gray-500 text-sm">
               {" "}
               There are many variations of passages of Lorem Ipsum available,
               but the majority have suffered alteration in some form, by
@@ -403,7 +407,7 @@ const ListDetails = () => {
                 <div className="flex gap-4 items-center">
                   <Image
                     src={review.avatar}
-                    alt="Services"
+                    alt={review.location}
                     width={70}
                     height={70}
                     className="rounded-full h-18 object-cover p-1 border-2 border-primary"

@@ -1,9 +1,13 @@
 
 "use client"
+import Link from 'next/link';
 import React from 'react';
 import { MdOutlineAdd, MdOutlineAddCircleOutline } from "react-icons/md";
 
 const Navbar = () => {
+  const links = <>
+  <li> <Link href='/list'> Listing </Link> </li>
+  </>
     return (
        <div className=" bg-base-100 shadow-sm">
  <div className="navbar max-w-7xl mx-auto">
@@ -15,15 +19,15 @@ const Navbar = () => {
       <ul
         tabIndex="-1"
         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-        <li><a>List</a></li>
+        {links}
         
       </ul>
     </div>
-    <a>Health Quest Links</a>
+    <Link href='/list' className='font-medium text-secondary'>Health Quest Links </Link>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
-      <li><a>List</a></li>
+      {links}
     </ul>
   </div>
   <div className="navbar-end">
